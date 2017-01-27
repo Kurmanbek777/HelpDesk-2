@@ -1,0 +1,19 @@
+﻿body
+{
+}
+label{
+		float:left;
+		width:200px;
+		margin:6px;
+}
+#form1{
+		width:420px;
+		margin:0 auto;
+}
+div.row{
+		clear:left;
+}
+#commentsTB{
+		width:200px;
+		height:100px;
+}

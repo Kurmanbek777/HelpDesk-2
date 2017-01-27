@@ -1,0 +1,13 @@
+C:\HelpDesk\HelpDesk\bin\HelpDesk.dll
+C:\HelpDesk\HelpDesk\bin\HelpDesk.pdb
+C:\HelpDesk\HelpDesk\obj\Debug\ResolveAssemblyReference.cache
+C:\HelpDesk\HelpDesk\obj\Debug\HelpDesk.dll
+C:\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+d:\Users\User\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk\bin\HelpDesk.dll.config
+d:\Users\User\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk\bin\HelpDesk.dll
+d:\Users\User\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk\bin\HelpDesk.pdb
+d:\Users\User\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk\obj\Debug\HelpDesk.dll
+d:\Users\User\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk\obj\Debug\HelpDesk.pdb
+d:\Users\User\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk\bin\App_Data\mwd.mdf
+d:\Users\User\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk\bin\App_Data\mwd_log.ldf
+d:\Users\User\Documents\Visual Studio 2015\Projects\HelpDesk\HelpDesk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
